@@ -1,0 +1,175 @@
+Nanofold value with at least two different topology values: 40.g11
+architecture value: babb, topology value: bUaUbUb, Nb of PUs: 60
+architecture value: babb, topology value: bLaUbUb, Nb of PUs: 100
+new architecture value: Fbabb, new topology value: FbLaUbUb
+
+Nanofold value with at least two different topology values: 50.g53
+architecture value: baaab, topology value: bLaUaUaLb, Nb of PUs: 11
+architecture value: abaab, topology value: aLbLaLaLb, Nb of PUs: 10
+new architecture value: Fabaab, new topology value: FbLaUaUaLb
+
+Nanofold value with at least two different topology values: 25.g299
+architecture value: aa, topology value: aLa, Nb of PUs: 131
+architecture value: ba, topology value: bLa, Nb of PUs: 9
+new architecture value: Fba, new topology value: FaLa
+
+Nanofold value with at least two different topology values: 40.g79
+architecture value: bbb, topology value: bLbUb, Nb of PUs: 15
+architecture value: bbbb, topology value: bLbLbUb, Nb of PUs: 16
+new architecture value: Fbbbb, new topology value: FbLbLbUb
+
+Nanofold value with at least two different topology values: 40.g18
+architecture value: bab, topology value: bUaLb, Nb of PUs: 47
+architecture value: bab, topology value: bUaUb, Nb of PUs: 25
+new architecture value: Fbab, new topology value: FbUaLb
+
+Nanofold value with at least two different topology values: 50.g79
+architecture value: abaa, topology value: aUbUaUa, Nb of PUs: 9
+architecture value: abaa, topology value: aUbLaUa, Nb of PUs: 9
+new architecture value: Fabaa, new topology value: FaUbUaUa
+
+Nanofold value with at least two different topology values: 30.g14
+architecture value: bab, topology value: bUaUb, Nb of PUs: 150
+architecture value: ba, topology value: bUa, Nb of PUs: 50
+new architecture value: Fba, new topology value: FbUaUb
+
+Nanofold value with at least two different topology values: 50.g69
+architecture value: abbb, topology value: aLbLbLb, Nb of PUs: 24
+architecture value: abbbb, topology value: aUbLbUbLb, Nb of PUs: 24
+new architecture value: Fabbbb, new topology value: FaLbLbLb
+
+Nanofold value with at least two different topology values: 50.g194
+architecture value: bba, topology value: bLbLa, Nb of PUs: 7
+architecture value: bbbba, topology value: bLbUbUbLa, Nb of PUs: 3
+new architecture value: Fbbbba, new topology value: FbLbLa
+
+Nanofold value with at least two different topology values: 25.g315
+architecture value: aa, topology value: aUa, Nb of PUs: 6
+architecture value: aa, topology value: aLa, Nb of PUs: 10
+new architecture value: Faa, new topology value: FaLa
+
+Nanofold value with at least two different topology values: 40.g119
+architecture value: ababb, topology value: aObLaUbUb, Nb of PUs: 13
+architecture value: bbb, topology value: bUbUb, Nb of PUs: 13
+new architecture value: Fbbb, new topology value: FaObLaUbUb
+
+Nanofold value with at least two different topology values: 40.g210
+architecture value: aabb, topology value: aUaLbLb, Nb of PUs: 7
+architecture value: aaa, topology value: aUaLa, Nb of PUs: 7
+new architecture value: Faaa, new topology value: FaUaLbLb
+
+Nanofold value with at least two different topology values: 40.g143
+architecture value: abb, topology value: aObLb, Nb of PUs: 8
+architecture value: abbb, topology value: aUbUbUb, Nb of PUs: 8
+new architecture value: Fabbb, new topology value: FaObLb
+
+Nanofold value with at least two different topology values: 25.g64
+architecture value: aba, topology value: aUbLa, Nb of PUs: 27
+architecture value: aa, topology value: aUa, Nb of PUs: 28
+new architecture value: Faa, new topology value: FaUa
+
+Nanofold value with at least two different topology values: 50.g14
+architecture value: baba, topology value: bUaUbUa, Nb of PUs: 59
+architecture value: baba, topology value: bUaUbLa, Nb of PUs: 25
+new architecture value: Fbaba, new topology value: FbUaUbUa
+
+Nanofold value with at least two different topology values: 50.g97
+architecture value: bbab, topology value: bUbLaUb, Nb of PUs: 10
+architecture value: bbabb, topology value: bUbLaLbUb, Nb of PUs: 10
+new architecture value: Fbbabb, new topology value: FbUbLaUb
+
+Nanofold value with at least two different topology values: 25.g258
+architecture value: aa, topology value: aLa, Nb of PUs: 8
+architecture value: aa, topology value: aUa, Nb of PUs: 12
+new architecture value: Faa, new topology value: FaUa
+
+Nanofold value with at least two different topology values: 50.g124
+architecture value: bbbb, topology value: bLbUbUb, Nb of PUs: 6
+architecture value: abbb, topology value: aLbUbUb, Nb of PUs: 6
+new architecture value: Fabbb, new topology value: FbLbUbUb
+
+Nanofold value with at least two different topology values: 50.g108
+architecture value: babbb, topology value: bUaUbUbUb, Nb of PUs: 7
+architecture value: babb, topology value: bUaUbLb, Nb of PUs: 7
+new architecture value: Fbabb, new topology value: FbUaUbUbUb
+
+Nanofold value with at least two different topology values: 50.g176
+architecture value: abab, topology value: aLbUaUb, Nb of PUs: 9
+architecture value: abaa, topology value: aUbLaLa, Nb of PUs: 6
+new architecture value: Fabaa, new topology value: FaLbUaUb
+
+Nanofold value with at least two different topology values: 45.g84
+architecture value: abaab, topology value: aUbLaLaLb, Nb of PUs: 19
+architecture value: abab, topology value: aLbLaUb, Nb of PUs: 19
+new architecture value: Fabab, new topology value: FaUbLaLaLb
+
+Nanofold value with at least two different topology values: 45.g27
+architecture value: aaa, topology value: aUaUa, Nb of PUs: 22
+architecture value: aba, topology value: aLbLa, Nb of PUs: 22
+new architecture value: Faba, new topology value: FaUaUa
+
+Nanofold value with at least two different topology values: 45.g98
+architecture value: bba, topology value: bLbLa, Nb of PUs: 8
+architecture value: bba, topology value: bLbUa, Nb of PUs: 8
+new architecture value: Fbba, new topology value: FbLbLa
+
+Nanofold value with at least two different topology values: 40.g235
+architecture value: bbbb, topology value: bUbUbUb, Nb of PUs: 6
+architecture value: bb, topology value: bLb, Nb of PUs: 6
+new architecture value: Fbb, new topology value: FbUbUbUb
+
+Nanofold value with at least two different topology values: 50.g89
+architecture value: bbaa, topology value: bUbLaOa, Nb of PUs: 9
+architecture value: abbaa, topology value: aLbUbLaLa, Nb of PUs: 9
+new architecture value: Fabbaa, new topology value: FbUbLaOa
+
+Nanofold value with at least two different topology values: 50.g142
+architecture value: abb, topology value: aLbUb, Nb of PUs: 11
+architecture value: abb, topology value: aUbUb, Nb of PUs: 5
+new architecture value: Fabb, new topology value: FaLbUb
+
+Nanofold value with at least two different topology values: 50.g106
+architecture value: aaa, topology value: aLaLa, Nb of PUs: 8
+architecture value: aaa, topology value: aUaLa, Nb of PUs: 9
+new architecture value: Faaa, new topology value: FaUaLa
+
+Nanofold value with at least two different topology values: 30.g305
+architecture value: bbb, topology value: bLbLb, Nb of PUs: 5
+architecture value: bb, topology value: bLb, Nb of PUs: 5
+new architecture value: Fbb, new topology value: FbLbLb
+
+Nanofold value with at least two different topology values: 50.g50
+architecture value: aaa, topology value: aUaUa, Nb of PUs: 33
+architecture value: aa, topology value: aLa, Nb of PUs: 15
+new architecture value: Faa, new topology value: FaUaUa
+
+Nanofold value with at least two different topology values: 40.g267
+architecture value: bab, topology value: bLaUb, Nb of PUs: 5
+architecture value: bbab, topology value: bUbUaUb, Nb of PUs: 5
+new architecture value: Fbbab, new topology value: FbLaUb
+
+Nanofold value with at least two different topology values: 40.g153
+architecture value: ab, topology value: aUb, Nb of PUs: 10
+architecture value: aab, topology value: aLaUb, Nb of PUs: 10
+new architecture value: Faab, new topology value: FaUb
+
+Nanofold value with at least two different topology values: 50.g118
+architecture value: baba, topology value: bUaLbLa, Nb of PUs: 8
+architecture value: baba, topology value: bLaUbLa, Nb of PUs: 4
+new architecture value: Fbaba, new topology value: FbUaLbLa
+
+Nanofold value with at least two different topology values: 50.g100
+architecture value: bbbb, topology value: bUbUbUb, Nb of PUs: 8
+architecture value: bbb, topology value: bUbUb, Nb of PUs: 8
+new architecture value: Fbbb, new topology value: FbUbUbUb
+
+Nanofold value with at least two different topology values: 50.g163
+architecture value: babaa, topology value: bLaUbLaLa, Nb of PUs: 6
+architecture value: bbaa, topology value: bUbLaUa, Nb of PUs: 7
+new architecture value: Fbbaa, new topology value: FbUbLaUa
+
+Nanofold value with at least two different topology values: 25.g405
+architecture value: aa, topology value: aUa, Nb of PUs: 3
+architecture value: ab, topology value: aUb, Nb of PUs: 3
+new architecture value: Fab, new topology value: FaUa
+
